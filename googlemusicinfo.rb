@@ -4,13 +4,10 @@ music_data = JSON.parse(file)
 
 print "Enter a start year: "
 start_year = gets.to_i
-#start_year = start_year.to_i
 print "Enter an end year: "
 end_year = gets.to_i
-#end_year = end_year.to_i
 print "How many of your top songs and artists would you like displayed: "
 num_to_display = gets.to_i
-#num_to_display = num_to_display.to_i
 
 times_listened = Hash.new(0)
 artists_listened = Hash.new(0)
