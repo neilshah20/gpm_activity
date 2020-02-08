@@ -3,5 +3,5 @@ Provides the user with information about their most listened to songs and artist
 
 "MyActivity.json" file can be downloaded by choosing to download "My Activity" from Google Takeout in JSON format. Only include activity data from Google Play Music (deselect all other products).
 
-Clone the repository and put your "MyActivity.json" file in the same folder as the "googlemusicinfo.rb" file. Type ... ruby googlemusicinfo.rb ... and follow the instructions.
+Clone the repository and put your "MyActivity.json" file in the same folder as the "googlemusicinfo.rb" file. Type ``` ruby googlemusicinfo.rb ``` and follow the instructions.
 ![alt text](https://github.com/neilshah20/gpm_activity/blob/master/example.png)
